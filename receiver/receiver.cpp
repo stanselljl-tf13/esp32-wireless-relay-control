@@ -1,6 +1,6 @@
 /*
  * Wireless Relay Control System — Receiver
- * Author: [Your Name]
+ * Author: Jackson Stansell
  * Date: June 2026
  *
  * Description:
