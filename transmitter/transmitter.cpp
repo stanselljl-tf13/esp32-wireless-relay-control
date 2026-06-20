@@ -1,6 +1,6 @@
 /*
  * Wireless Relay Control System — Transmitter
- * Author: [Your Name]
+ * Author: Jackson Stansell
  * Date: June 2026
  *
  * Description:
