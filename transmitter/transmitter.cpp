@@ -20,8 +20,9 @@
 
 // ─── Receiver MAC Address ─────────────────────────────────────────────────────
 // Only one address should be active at a time — comment out the unused one
-uint8_t relayMacAddress[] = {0xD8, 0xBC, 0x38, 0xFD, 0x94, 0x8C}; // Receiver #2
-                          //{0xC0, 0x5D, 0x89, 0xDE, 0x34, 0x90}  // Receiver #1
+uint8_t relayMacAddress[] = {0x00, 0x00, 0x00, 0x00, 0x00, 0x00}; // Receiver #2
+                          //{0x00, 0x00, 0x00, 0x00, 0x00, 0x00}  // Receiver #1
+//Insert correct mac addresses above
 
 // ─── Send Callback ────────────────────────────────────────────────────────────
 // Fires after every transmission attempt and reports whether the receiver
